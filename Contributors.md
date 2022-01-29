@@ -5,6 +5,7 @@
 - Isaac Davis (https://github.com/iad44)
 - Shubham Kanekal
 - [Piotr Kowalski](https://github.com/fatherJS)
+- [Ishan Koul](https://github.com/rnsishan)
 - [Siddhant Singh](https://github.com/siddhantsingh-1)
 - [Jebus] (https://github.com/Jebushdd)
 - [Siddharth Singh] (https://github.com/SidSin)
